@@ -1,0 +1,4 @@
+suma
+resta
+división
+producto
